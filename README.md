@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aswin
 - 👀 I’m interested in coding
-- 🌱 currently learning Data Science & Machine learning
+- 🌱 AI | ML | DL | NN
 - ig : elnico.aswin
 
 <!---
