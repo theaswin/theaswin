@@ -1,7 +1,7 @@
 - 👋 I’m aswin
 - 👀 Interested in coding
 - 🌱 AI | ML | DS | DL |
-- ig : elnico.aswin
+- ig : ai_.aswin
 
 <!---
 theaswin/theaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
