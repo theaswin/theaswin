@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/06/b2/2e/06b22e7376653968884ed59f5a9584c0.png" alt="Paris" style="width:800px;height:400px;margin-left:50%;">
+![Header](./github-header-image (2).png)
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/originals/06/b2/2e/06b22e7376653968884ed59f5a9584c0.png">
