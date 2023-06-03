@@ -1,10 +1,10 @@
-[![MasterHead](https://drive.google.com/file/d/1XES3VuyADdesQn3tgeL8-nBUkoxZsPZD/view?usp=drive_link)](www.github/theaswin.com)
+[![MasterHead](https://i.pinimg.com/236x/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.jpg)
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt = "Coding" width = "400" src= "https://www.google.com/search?q=animated+coding+gif&sxsrf=APwXEdfaFGEPwQ7qrdKHTrXgtC3xim5XFQ:1685785390400&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD3fL656b_AhUj-jgGHdvJAXcQ_AUoAXoECAEQAw&biw=1745&bih=862&dpr=1.1#imgrc=55jyr3BK5duBpM">
+<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/236x/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.jpg">
 
 
-- 💬 Ask me about **AI|DS|ML|DL|NN|OpenCV**
+- 💬 Ask me about **AI | DS | ML | DL | NN |OpenCV**
 
 - 📫 How to reach me **aswinnathofficial@gmail.com**
 
