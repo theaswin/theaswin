@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/0c/e0/22/0ce022a0ea75fcacdf1614d43353eac5.jpg)]
+<img src="https://drive.google.com/file/d/1XES3VuyADdesQn3tgeL8-nBUkoxZsPZD/view?usp=drive_link" alt="Drive crash" width="500" height="600">
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/564x/0c/e0/22/0ce022a0ea75fcacdf1614d43353eac5.jpg">
