@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.gif)]
+[![MasterHead](https://i.pinimg.com/564x/07/ad/2d/07ad2d54d9ea9b1dfad38f4db790087c.jpg)]
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt = "Coding" width = "400" src= "https://www.google.com/search?q=animated+coding+gif&sxsrf=APwXEdfaFGEPwQ7qrdKHTrXgtC3xim5XFQ:1685785390400&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD3fL656b_AhUj-jgGHdvJAXcQ_AUoAXoECAEQAw&biw=1745&bih=862&dpr=1.1#imgrc=55jyr3BK5duBpM">
