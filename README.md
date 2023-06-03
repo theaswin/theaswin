@@ -1,6 +1,12 @@
 <img align="center" alt = "Coding" width = "auto" src= "github-header-image (2).png">
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<h4 align="center">👋 Hi there! I'm aswin, a passionate data scientist with expertise in machine learning, Deep learning, data visualization.🔬 I love exploring complex datasets and extracting meaningful insights to drive data-informed decision-making. My goal is to leverage data science techniques to solve real-world problems and make a positive impact.
+💼 Currently, I work as a Data scientist at Futura Labs, where I apply my skills in machine learning, Deep learning, data visualization to build predictive models, perform statistical analyses, and develop data-driven solutions.<br>🎓 I hold a Bachelor of computer Application in IT from Calicut University. During my academic journey, I focused on Django and Data science. This experience honed my analytical and problem-solving skills, allowing me to tackle complex data challenges effectively.
+📚 I'm an avid learner and always stay up-to-date with the latest advancements in the field of data science. I enjoy sharing my knowledge through blog posts, tutorials, and speaking engagements.
+🌐 You can find some of my projects and code repositories on GitHub, where I showcase my work in data analysis, machine learning models, and data visualization. Feel free to explore and collaborate!
+✉️ If you have any questions, project proposals, or just want to connect, don't hesitate to reach out to me. I'm always excited about new opportunities and collaborations.
+Let's unlock the power of data together! 🚀 </h4>
 
 - 💬 Ask me about **AI | DS | ML | DL | NN |BigData**
 
