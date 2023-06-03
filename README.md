@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/236x/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.jpg)
+[![MasterHead](https://i.pinimg.com/564x/0c/e0/22/0ce022a0ea75fcacdf1614d43353eac5.jpg)]
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/236x/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.jpg">
+<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/564x/0c/e0/22/0ce022a0ea75fcacdf1614d43353eac5.jpg">
 
 
 - 💬 Ask me about **AI | DS | ML | DL | NN |OpenCV**
