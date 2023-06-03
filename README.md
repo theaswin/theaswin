@@ -1,7 +1,7 @@
-<img src="https://in.pinterest.com/2b65e1b3-6d99-4526-b6ba-60fd8c6389ca" alt="Drive crash" width="500" height="600">
+<img src="https://i.pinimg.com/originals/06/b2/2e/06b22e7376653968884ed59f5a9584c0.png" alt="Drive crash" width="500" height="600">
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/564x/0c/e0/22/0ce022a0ea75fcacdf1614d43353eac5.jpg">
+<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/originals/06/b2/2e/06b22e7376653968884ed59f5a9584c0.png">
 
 
 - 💬 Ask me about **AI | DS | ML | DL | NN |OpenCV**
