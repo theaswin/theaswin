@@ -3,11 +3,6 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt = "Coding" width = "400" src= "https://www.google.com/search?q=animated+coding+gif&sxsrf=APwXEdfaFGEPwQ7qrdKHTrXgtC3xim5XFQ:1685785390400&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD3fL656b_AhUj-jgGHdvJAXcQ_AUoAXoECAEQAw&biw=1745&bih=862&dpr=1.1#imgrc=55jyr3BK5duBpM">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theaswin&label=Profile%20views&color=0e75b6&style=flat" alt="theaswin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaswin" alt="theaswin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aswin" target="blank"><img src="https://img.shields.io/twitter/follow/aswin?logo=twitter&style=for-the-badge" alt="aswin" /></a> </p>
 
 - 💬 Ask me about **AI|DS|ML|DL|NN|OpenCV**
 
