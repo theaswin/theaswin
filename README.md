@@ -1,19 +1,5 @@
 <img align="center" alt = "Coding" width = "auto" src= "github-header-image (2).png">
 <h1 align="center">Hi 👋, I'm aswin</h1>
-
-<div class="container">
-    <!-- Your content goes here -->
-</div>
-
-<style>
-    .container {
-        max-width: auto; /* Adjust the value as per your preference */
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
-
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="center">👋 𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘢𝘴𝘸𝘪𝘯, 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 𝘸𝘪𝘵𝘩 𝘦𝘹𝘱𝘦𝘳𝘵𝘪𝘴𝘦 𝘪𝘯 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘤𝘦, 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨,𝘋𝘦𝘦𝘱 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘢𝘭 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴, 𝘥𝘢𝘵𝘢 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯.<br>
 🔬 𝘐 𝘭𝘰𝘷𝘦 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘥𝘢𝘵𝘢𝘴𝘦𝘵𝘴 𝘢𝘯𝘥 𝘦𝘹𝘵𝘳𝘢𝘤𝘵𝘪𝘯𝘨 𝘮𝘦𝘢𝘯𝘪𝘯𝘨𝘧𝘶𝘭 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴 𝘵𝘰 𝘥𝘳𝘪𝘷𝘦 𝘥𝘢𝘵𝘢-𝘪𝘯𝘧𝘰𝘳𝘮𝘦𝘥 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯-𝘮𝘢𝘬𝘪𝘯𝘨. 𝘔𝘺 𝘨𝘰𝘢𝘭 𝘪𝘴 𝘵𝘰 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘦 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘵𝘦𝘤𝘩𝘯𝘪𝘲𝘶𝘦𝘴 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘢𝘯𝘥 𝘮𝘢𝘬𝘦 𝘢 𝘱𝘰𝘴𝘪𝘵𝘪𝘷𝘦 𝘪𝘮𝘱𝘢𝘤𝘵.<br>
@@ -38,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaswin&show_icons=true&locale=en&layout=compact" alt="theaswin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaswin&theme=dark" alt="theaswin" /></p>
