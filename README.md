@@ -25,5 +25,5 @@
 <p align = 'center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
