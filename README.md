@@ -25,5 +25,6 @@
 <p align = 'center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theaswin)](https://github.com/theaswin/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaswin&theme=dark" alt="theaswin" /></p>
