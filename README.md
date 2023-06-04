@@ -25,6 +25,9 @@
 <p align = 'center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 <br>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaswin&show_icons=true&locale=en&layout=compact" alt="theaswin" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaswin&theme=dark" alt="theaswin" /></p>
+
