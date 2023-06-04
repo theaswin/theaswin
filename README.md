@@ -21,9 +21,5 @@
 <br>
 <br>
 <br>
-<p align = 'left'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theaswin&show_icons=true&locale=en&layout=compact" alt="theaswin" /></p>
-<p style="margin-right: 10px;">Paragraph 1</p>
-<p style="margin-right: 10px;">Paragraph 2</p>
-<p>Paragraph 3</p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaswin&show_icons=true&locale=en&layout=compact" alt="theaswin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
