@@ -23,8 +23,9 @@
 <br>
 <p align = 'left'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaswin&show_icons=true&locale=en" alt="theaswin" /></p>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theaswin&show_icons=true&locale=en&layout=compact" alt="theaswin" /></p>
-<div style="display: flex; align-items: center;">
-    <img src="shinig_NN.gif" alt="Image 1" style="margin-right: 10px;">
-    <img src="shinig_NN.gif" alt="Image 2" style="margin-right: 10px;">
-    <img src="shinig_NN.gif" alt="Image 3" style="margin-right: 10px;">
+<div style="display: flex;">
+    <p style="margin-right: 10px;">Paragraph 1</p>
+    <p style="margin-right: 10px;">Paragraph 2</p>
+    <p>Paragraph 3</p>
 </div>
+
