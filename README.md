@@ -7,7 +7,7 @@
 
 <style>
     .container {
-        max-width: 800px; /* Adjust the value as per your preference */
+        max-width: auto; /* Adjust the value as per your preference */
         margin-left: auto;
         margin-right: auto;
     }
