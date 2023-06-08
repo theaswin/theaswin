@@ -1,4 +1,4 @@
-<img align="center" alt = "Coding" width = "auto" src= "./github-header-image (2).png">
+<img align="center" alt = "Coding" width = "auto" src= "github-header-image (2).png">
 <h1 align="center">Hi 👋, I'm aswin</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="center">👋 𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘢𝘴𝘸𝘪𝘯, 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 𝘸𝘪𝘵𝘩 𝘦𝘹𝘱𝘦𝘳𝘵𝘪𝘴𝘦 𝘪𝘯 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘤𝘦, 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨,𝘋𝘦𝘦𝘱 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘢𝘭 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴, 𝘥𝘢𝘵𝘢 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯.<br>
